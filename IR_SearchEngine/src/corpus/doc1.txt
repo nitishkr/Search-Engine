@@ -1,0 +1,5 @@
+Team name	Team name 2	Distance	Category	Wave	Leg 1	Leg 2	Bib	Start time
+Team Webscorer #1	"Montclair, NJ"	2 x 1 km	Men 30-39	Early Start	Jim Borth	Brad Kirkpatrick	"101, 102"	7:00:00
+Team Webscorer #2	"Mercer Island, WA"	2 x 1 km	Men 40-49	2 x 1 km	Antero Koskinen	Keith Logan	"201, 202"	8:00:00
+Team Webscorer #3	"Redmond, WA"	2 x 2 km	Men 40-49	2 x 2 km	Tad Parker	Vesa Suomalainen	"301, 302"	8:15:00
+Team Webscorer #4	"Bellevue, WA"	2 x 2 km	Men 50-59	2 x 2 km	Henry Rawas	Juha Niemisto	"401, 402"	8:15:00

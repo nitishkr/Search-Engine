@@ -1,0 +1,9 @@
+Name	First name	Last name	Team name	Team name 2	Gender	Age	Distance	Category	Wave	Bib	Start time	Predicted time	Handicap	Chip ID	Chip ID2	Info 1	Info 2	Info 3	Info 4	Info 5	Email
+"Borth, Jim"	Jim	Borth	"Montclair, NJ"	Team Webscorer	Male	31	Marathon	Men 30-39	Early start	101	7:00:00	5:12:00	0.9975	7722		Member	11/02/1984				jim@webscorer.com
+"Kirkpatrick, Brad"	Brad	Kirkpatrick	"Bellevue, WA"	Team Webscorer	Male	46	Marathon	Men 30-39	Early start	102	7:00:00	4:00:00	0.9099	7732		Member	09/12/1969				brad@webscorer.com
+"Koskinen, Antero"	Antero	Koskinen	"Mercer Island, WA"	Team Webscorer	Male	50	Marathon	Men 40-49	Marathon	103	8:00:00	3:15:00	0.8817	7742		Member	01/22/1966				antero@webscorer.com
+"Logan, Keith"	Keith	Logan	"Seattle, WA"	Team Webscorer	Male	45	Marathon	Men 40-49	Marathon	104	8:00:00	5:15:30	0.9169	7752		Guest	08/22/1969				keith@webscorer.com
+"Parker, Tad"	Tad	Parker	"Redmond, WA"	Team Webscorer	Male	46	Half-Marathon	Men 40-49	Half-Marathon	201	8:15:00	1:38:25	0.9099	7762		Guest	07/01/1969				tad@webscorer.com
+"Suomalainen, Vesa"	Vesa	Suomalainen	"Woodinville, WA"	Team Webscorer	Male	49	Half-Marathon	Men 40-49	Half-Marathon	202	8:15:00	1:30:00	0.8888	7772		Member	04/30/1967				vesa@webscorer.com
+"Rawas, Henry"	Henry	Rawas	"Bellevue, WA"	Team Webscorer	Male	57	Half-Marathon	Men 50-59	Half-Marathon	203	8:15:00	1:55:50	0.8324	7782		Member	02/22/1959				henry@webscorer.com
+"Taht, Wilhelm"	Wilhelm	Taht	"Helsinki, Finland"	Team Webscorer	Male	32	Half-Marathon	Men 50-59	Half-Marathon	204	8:15:00	2:02:02	0.9952	7792		Guest	06/11/1983				wilhelm@webscorer.com
